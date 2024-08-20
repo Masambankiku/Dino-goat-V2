@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "sangokusan035@gmail.com",
+    "password": "dinogc44",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100042292561861",
+    "100080355760429",
     "YOUR_SECOND_UID",
     "YOUR_THIRD_UID",
     "YOUR_FOURTH_UID",
@@ -28,12 +28,12 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Ayush Shukla",
-  "AGE": "22",
+  "OWNER": "ʬɸʬ Blåzė Nøvã ʬɸʬ",
+  "AGE": "15",
   "GENDER": "MALE",
-  "nickNameBot": "⍟🄺🄸🄽🄶🄱🄾🅃㋛︎",
-  "FACEBOOK": "https://www.facebook.com/100042292561861",
-  "prefix": "/",
+  "nickNameBot": "☆ 𝐁𝐥𝐚𝐳𝐞 ✦ 𝐧𝐨𝐯𝐚 ✦",
+  "FACEBOOK": "https://www.facebook.com/100080355760429",
+  "prefix": "¥",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
